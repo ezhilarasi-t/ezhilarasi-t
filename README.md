@@ -31,8 +31,8 @@ Software Engineer [<img src="https://1000logos.net/wp-content/uploads/2021/09/Co
 
 🤖 Built AI-Powered Customer Experiences
 
-<img src="https://streak-stats.demolab.com?user=ezhilarasi-t&theme=dark&hide_border=true" alt="ezhilarasi-t's GitHub Stats" />
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ezhilarasi-t?theme=dark&font=Gotu&ext=contest)
+
+<img src="https://streak-stats.demolab.com?user=ezhilarasi-t&theme=dark&hide_border=true" alt="ezhilarasi-t's GitHub Stats" />
 
 [![Ezhil github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezhilarasi-t&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
