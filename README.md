@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Ezhil
 
-Software Engineer [<img src="https://1000logos.net/wp-content/uploads/2021/09/Cognizant-Logo.png" height="40">](https://www.cognizant.com/in/en)
+Software Engineer @ Cognizant 
 
 <img align="right" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpODZiOXd3ODUyNXJuYTdhYTV4enZhNnFpZGZtM2lxamVoeXdkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
